@@ -26,3 +26,8 @@ Neregistrirani korisnik
 * Vidi padajući izbornik sa svim vrtovima te može odabrati vrt i onda vidi informacije o biljkama u vrtu sa slikama. Biljka koja ima količinu 0 se ne prikazuje.
 * Vidi popis dostupnih anketa za dodavanje novih biljaka i može odgovoriti s da ili ne. Može dati samo jedan glas po anketi (provjerava se IP adresa).
 * Putem RSS kanala može se pratiti zadnjih 10 dodanih biljaka po vrtovima.
+
+# ER Diagram
+
+
+![ER_Diagram](https://user-images.githubusercontent.com/45260426/148388625-49a4bad5-9509-4767-a636-1f4a44b1420e.png)
